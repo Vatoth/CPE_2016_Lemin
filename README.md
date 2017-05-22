@@ -3,9 +3,8 @@
 ### Introduction
 
 ```
-The objective of this program is to find the quickest way to make the ants cross over the anthill. To do so, each single
-ant need to take the shortest route (and not necessarily the easiest), whithout walking on its peers, and avoiding traffic
-jams.
+The objective of this program is to find the quickest way to make the ants cross over the anthill.
+To do so, each single ant need to take the shortest route
 ```
 
 ### Prerequisites
