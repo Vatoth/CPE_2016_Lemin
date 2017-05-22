@@ -53,6 +53,6 @@ make
 * **Nikola Tomic** - *Algorithms for resolution and exit* - [Pujomir](https://github.com/Pujomir)
 * **Léandre Blanchard** - *Network , Graphical interface and parsing bonus* - [LeandreBL](https://github.com/LeandreBl)
 * **Antoine Le Dû** - *Algorithms for resolution and exit* - [Sezny](https://github.com/sezny)
-* **Quentin Sonnefraud** -*Creation of the graph, Error Management and map parsing* - [Vatoth](https://github.com/Vatoth)
+* **Quentin Sonnefraud** -*Creation of the graph, Error Management and map parsing* - [Quentin Sonnefraud](https://github.com/Vatoth)
 
 Made with love at Epitech Paris in 2017
