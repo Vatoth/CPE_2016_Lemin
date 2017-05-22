@@ -16,7 +16,7 @@ There is a Makefile in the repository
 make
 ```
 
-###Usage
+### Usage
 
 ```
 ./lemin < map
